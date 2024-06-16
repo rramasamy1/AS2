@@ -1,0 +1,18 @@
+body {
+    padding-top: 56px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+p {
+    font-size: 1.2em;
+}
+*{
+    background-color: #d57a7a;
+}
